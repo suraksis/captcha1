@@ -1,8 +1,8 @@
 <?php
-   /* Kaptcha1 Image Generator
+   /* Captcha1 Image Generator
 	* Definitely not secure captcha challenge
 	* Keeping it easy for those who haven't processed images before.
-	* Kris Howard - ka1m
+	* Kris Howard - suraksis
 	* kris@mail.usf.edu
 	*/
 	session_start();
@@ -38,7 +38,7 @@
 
 <body>
 <div class="container">
-<h1>Kaptcha1</h1>
+<h1>Captcha1</h1>
 <p>You have one second to read this image and post it back to this page.<br />Remember the cookies,<br />the image will also provide them.</p>
 
 <div class="captcha">
